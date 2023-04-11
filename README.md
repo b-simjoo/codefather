@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/117530839/231253090-b922dcf3-13e2-449c-9b7b-c6a7a19a1c3a.png">
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/117530839/231252957-7728d5ca-ff50-4055-a051-48c06eb557ca.png">
-    <img alt="TheCodefather Logo" src="https://user-images.githubusercontent.com/117530839/231252957-7728d5ca-ff50-4055-a051-48c06eb557ca.png">
+    <img alt="TheCodefather Logo" src="https://user-images.githubusercontent.com/117530839/231253090-b922dcf3-13e2-449c-9b7b-c6a7a19a1c3a.png">
   </picture>
   <h1>The CodeFather</h1>
   <p>self-host shared code editor web app for teaching purposes</p>
