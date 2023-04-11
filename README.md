@@ -1,6 +1,9 @@
 <div align="center">
-  <img alt="the-codefather-vector-logo-white" src="https://user-images.githubusercontent.com/117530839/231137851-ea0bd6b1-140f-42e6-b166-d7a81eb10c08.png#gh-dark-mode-only">
-  <img alt="the-codefather-vector-logo" src="https://user-images.githubusercontent.com/117530839/231138344-7df4670c-1686-474b-80b5-b71fbc4a6630.png#gh-light-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/117530839/231253090-b922dcf3-13e2-449c-9b7b-c6a7a19a1c3a.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/117530839/231252957-7728d5ca-ff50-4055-a051-48c06eb557ca.png">
+    <img alt="TheCodefather Logo" src="https://user-images.githubusercontent.com/117530839/231252957-7728d5ca-ff50-4055-a051-48c06eb557ca.png">
+  </picture>
   <h1>The CodeFather</h1>
   <p>self-host shared code editor web app for teaching purposes</p>
 </div>
